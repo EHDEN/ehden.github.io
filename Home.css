@@ -1,0 +1,49 @@
+ .u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 592px;
+}
+
+.u-section-1 .u-list-1 {
+  width: 461px;
+  margin: 249px 0 0 auto;
+}
+
+.u-section-1 .u-repeater-1 {
+  grid-gap: 20px 20px;
+  grid-template-columns: 100%;
+  min-height: 75px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 0;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: none;
+  letter-spacing: 1px;
+  background-image: none;
+  font-size: 1.5rem;
+  font-weight: normal;
+  text-transform: none;
+  margin: 0;
+  padding: 18px 176px 19px 175px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 400;
+  font-size: 4.5rem;
+  margin: -79px auto 60px 58px;
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-list-1 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.875rem;
+  }
+}
